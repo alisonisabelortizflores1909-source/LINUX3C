@@ -1,0 +1,4 @@
+README tiene los permisos: 4, 2, 0, 4, 2, 0, 4, 0, 0 --> 664
+docs tiene los permisos:  4, 2, 1, 4, 2, 1, 4, 0, 1 ---> 775
+logs tiene los permisos:  4, 2, 1, 4, 2, 1, 4, 0, 1 ---> 775
+src tiene los permisos:  4, 2, 1, 4, 2, 1, 4, 0, 1 ---> 775
